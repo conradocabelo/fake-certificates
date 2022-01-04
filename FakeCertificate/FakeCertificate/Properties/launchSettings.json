@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FakeCertificate": {
+      "commandName": "Project",
+      "commandLineArgs": "type=ecpf path=\"C:\\\\Certificates\\\\\" password=teste number=5 validity=5"
+    }
+  }
+}
